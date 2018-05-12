@@ -1,0 +1,26 @@
+_repo: The-Poetry-of-Wales_18523
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Jenkins, John
+    birthdate: 1821
+    deathdate: 1896
+    gutenberg_agent_id: '8083'
+    url: http://www.gutenberg.org/2009/agents/8083
+description: ''
+gutenberg_issued: '2006-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Welsh poetry -- Translations into English'
+- !lcc 'PR'
+title: The Poetry of Wales
+url: http://www.gutenberg.org/ebooks/18523
