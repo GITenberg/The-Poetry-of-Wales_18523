@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8083'
     url: http://www.gutenberg.org/2009/agents/8083
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18523#The-Poetry-of-Wales
 gutenberg_issued: '2006-06-06'
 gutenberg_type: Text
 identifiers:
